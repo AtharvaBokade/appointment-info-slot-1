@@ -60,11 +60,11 @@ const add = () =>{
     
     
     
-    < h6 id ="time">Booking for : 9am to 10am</h6>
+   
       <div className="infoStyle">
        
       <form>
-         
+      <h6 id ="time">Booking for : 9am to 10am</h6>
       <div className="mb-3">
       
         <label htmlFor="exampleInputEmail1" className="form-label" id="name_text">Name</label>
